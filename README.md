@@ -1,41 +1,54 @@
-..take note, make sure you have git in your pc <br>
-..create a folder in your file explorer, then open that folder in your ide. <br>
-..in your terminal, follow the step 1. <br>
+![rtu-pos](https://github.com/user-attachments/assets/cbc57143-956d-47af-aa30-a5d72c6c498f)
 
-To obtain the code, simply follow these steps as outlined. <br>
-1.git clone [http, ssh, or gh path]
+# RTU Point of Sale
 
-visit the website for reference:
+RTU POS is an innovative point-of-sale system designed to streamline business operations and improve order, sales, and revenue management. It integrates with RTU Apparel, providing a unified view of sales and inventory. RTU POS offers real-time analytics, a user-friendly interface, automated calculations and receipts, multi-platform accessibility, enhanced customer service, and adaptability. Its intuitive interface allows for easy product addition, pricing, and payment processing.
+
+
+
+## Demo
+
 https://rtu-pos.web.app
 
-..Tech stack: <br>
-<ul>
-  <li>REACTJS</li> 
-  <li>FIREBASE</li>
-</ul>
+
+## Features
+
+- Only authorized administrators can log in to the POS system
+- If a non-admin user tries to access the system, they will be redirectred to the RTU Apparel website
+- Easily add, delete, and reset stock of products within the system 
+- The system can easily calculate all expenses incurred by the user
+- Payment methods include both cash and online options for customer convenience 
+- The systems tracks revenue generated from sales and provides reports for analysis
+- Orders placed through the system are recorded and can be tracked for reference 
+- User information such as contact details and purchase history can be accessed within the system 
+- The system allows for the printing of receipts for completed orders 
+- The system provides a feature to view and respond to user inquiries or messages.
 
 
 
-<hr>
-RTU APPAREL FEATURES:
-<br></br>
-<ul>
-  <li><b>Secure:</b> The POS system ensures the security of your data and transactions.</li>
-  <li><b>Admin Account Login:</b> Only authorized administrators can log in to the POS system.</li>
-  <li><b>Non-Admin Redirect:</b> If a non-admin user tries to access the POS system, they will be redirected to the RTU Apparel website.</li>
-  <li><b>Product Management:</b> Easily add, delete, and reset stock of products within the POS system.</li>
-  <li><b>Product Categorization:</b> Each product is categorized for better organization and management.</li>
-  <li><b>Expense Calculation:</b> The system can easily calculate all expenses incurred by the user.</li>
-  <li><b>Accept Cash and Online Payments:</b> Payment methods include both cash and online options for customer convenience.</li>
-  <li><b>Revenue Tracking:</b> The system tracks revenue generated from sales and provides reports for analysis.</li>
-  <li><b>Order Tracking:</b> Orders placed through the POS system are recorded and can be tracked for reference.</li>
-  <li><b>Customer Management:</b> User information such as contact details and purchase history can be accessed within the system.</li>
-  <li><b>Receipt Printing:</b> The system allows for the printing of receipts for completed orders.</li>
-  <li><b>User Inquiries:</b> The POS system provides a feature to view and respond to user inquiries or messages.</li>
-</ul>
+## Technology Stack
+
+**Client:** React JS, Tailwind CSS
+
+**Server:** Firestore
+
+**Authentication:** Firebase Auth 
+
+**Hosting:** Firebase
 
 
+## Installation
 
+Install reactjs-rtu-point-of-sale with npm
 
+```bash
+  git clone 'https://github.com/sIUzyy/reactjs-rtu-point-of-sale.git'
+  cd reactjs-point-of-sale
+  npm install 
+  npm start
+```
+    
+## Authors
 
+- [@sIUzyy](https://github.com/sIUzyy)
 
