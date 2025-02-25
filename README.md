@@ -9,7 +9,7 @@ RTU POS is an innovative point-of-sale system designed to streamline business op
 
 https://rtu-pos.web.app
 
-Email: rtuadmin2023@gmail.com
+Email: rtuadmin2023@gmail.com <br />
 Password: 123456
 
 
