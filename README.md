@@ -5,10 +5,12 @@
 RTU POS is an innovative point-of-sale system designed to streamline business operations and improve order, sales, and revenue management. It integrates with RTU Apparel, providing a unified view of sales and inventory. RTU POS offers real-time analytics, a user-friendly interface, automated calculations and receipts, multi-platform accessibility, enhanced customer service, and adaptability. Its intuitive interface allows for easy product addition, pricing, and payment processing.
 
 
-
 ## Demo
 
 https://rtu-pos.web.app
+
+Email: rtuadmin2023@gmail.com
+Password: 123456
 
 
 ## Features
